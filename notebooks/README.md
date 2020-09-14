@@ -1,8 +1,8 @@
 # Notebooks 📓
 
-Aquí podrás acceder o guardar los Notebooks de Google Colab con los que trabajes durante el curso.
+Hola:
 
-1 Notebook:
-https://colab.research.google.com/drive/1JmPrilT3Ux7K1A6jMAmQ2UgoIW3TrzpJ?usp=sharing
+En el siguiente link están los Ejercicios que ya resolví. Saludos
 
-2 Notebook
+https://drive.google.com/drive/folders/1PjBJNLa_40cXQQ1oFMyxYbLhEnM-WNIj?usp=sharing
+
